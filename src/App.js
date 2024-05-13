@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <p>Ready for EB</p>
       </header>
     </div>
   );
