@@ -18,6 +18,7 @@ function App() {
           Learn React
         </a>
         <p>Ready for EB</p>
+        <p>Hello AWS</p>
       </header>
     </div>
   );
